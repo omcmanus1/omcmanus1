@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @omcmanus1
 - 👀 I’m interested in web development, data analysis and automation
 - 🌱 I’m currently learning Python and Javascript
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
   - LinkedIn: [Oliver McManus](https://www.linkedin.com/in/oliver-mcmanus-424521124/)
   - Email: omcmanus1@gmail.com  
