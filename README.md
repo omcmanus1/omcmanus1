@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @omcmanus1
+- 👋 Hi, I’m @omcmanus1 - full stack junior developer working with Javascript / Typescript & React
 - 👀 I’m interested in web development, data analysis and automation
 - 🌱 I’m currently learning:
-  - Python
-  - Javascript 
-  - HTML & CSS
-  - React
+  - Go
   - Typescript
 - 📫 How to reach me:
   - LinkedIn: [Oliver McManus](https://www.linkedin.com/in/oliver-mcmanus-424521124/)
