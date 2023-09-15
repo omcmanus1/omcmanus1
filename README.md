@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @omcmanus1 - full stack junior developer working with Javascript / Typescript & React
+- 👋 Hi, I’m @omcmanus1 - full stack junior developer working with Javascript / Typescript, React / NextJS, Prisma
 - 👀 I’m interested in web development, data analysis and automation
 - 🌱 I’m currently learning:
   - Go
