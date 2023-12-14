@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @omcmanus1 - full stack junior developer working with Typescript, NextJS / React, Prisma
-- 👀 I’m interested in higher performance / strongly typed languages
+- 👀 I’m interested in compiled & strongly typed languages
 - 🌱 I’m currently learning:
   - Go
   - Typescript
