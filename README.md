@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @omcmanus1 - full stack junior developer working with Typescript, NextJS / React, Prisma
+- 👋 Hi, I’m @omcmanus1 - Full Stack developer working with Python, Django and React (Typescript)
 - 🌱 I’m currently learning:
   - Go
-  - Typescript
+  - Shell Scripting
 - 📫 How to reach me:
   - LinkedIn: [Oliver McManus](https://www.linkedin.com/in/oliver-mcmanus-424521124/)
   - Email: omcmanus1@gmail.com  
